@@ -13,3 +13,11 @@ Pasos para ejecutar proyecto:
 2. Tomar carpeta ```dist ``` y desplegar un servidor
 
 ## Git hub
+
+
+
+
+## Git update
+1.  ``` git add .``` usar primero esto para agregarlos
+2.  ``` git commit -m "Readme update" ```  solo subira este documento
+3. ```  git push ```  este va ser para subirlos
